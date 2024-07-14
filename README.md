@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm working on various projects from web applications to data science-related projects and exploring machine learning models.<br>I'm looking to collaborate on coding clubs, hackathons and open-source projects.<br>I'm looking to improve my problem-solving skills through challenges.<br>
+<br>Tech Explorer || In a committed relationship with my IDE || Solving problems one line at a time.<br>
 
 
 ## 🌐 Socials
